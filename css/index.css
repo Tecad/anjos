@@ -1,0 +1,78 @@
+body{
+    background-image: url(../img/logo.png);
+    background-size: cover;
+    background-position: top ;
+}
+
+header{
+ text-align: center;
+}
+
+h1{
+   color: black;
+   text-align: center;
+   
+}
+
+ul{
+    background-color: azure;
+
+}
+
+li{
+    display: inline-block;
+    margin-top: 18px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+
+li a{
+    text-decoration: none;
+    text-align: center;
+}
+
+.botao1{
+    position: absolute;
+    left: 58%;
+    text-decoration: none;
+    color: black;
+}
+
+.botao1:hover{
+    color: rgb(111, 162, 230) ;
+}
+
+.botao2{
+    position: absolute;
+    left: 48%;
+    text-decoration: none;
+    color:black;
+}
+
+.botao2:hover{
+    color: rgb(111, 162, 230) ;
+}
+
+.botao3{
+    position: absolute;
+    left: 38%;
+    text-decoration: none;
+    color: black;
+}
+
+.botao3:hover{
+    color: rgb(111, 162, 230) ;
+}
+
+p{
+    background-color: azure;
+}
+
+footer{
+    text-align: center;
+    position: relative;
+    top: 480px;
+}
+

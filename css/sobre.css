@@ -1,0 +1,41 @@
+body{
+    background-color: rgba(88, 144, 207, 0.432);
+ }
+ 
+ h1{ 
+    color: rgb(2, 0, 97);
+    text-align: center;   
+}
+
+h2{
+    color: rgb(2, 0, 97);
+    text-align: justify; 
+    font-size: 26px;
+}
+
+h3{
+    color: rgb(2, 0, 97);
+    text-align: justify; 
+    font-size: 25px;
+}
+
+p{
+    color: rgb(0, 0, 0);
+    text-align: justify;
+}
+
+a{ 
+    color: rgb(2, 0, 97);
+    border: 5px double rgb(111, 162, 230);
+    border-radius: 5px; 
+    padding: 5px;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: azure;
+    border: 7px double rgba(66, 64, 218, 0.582);
+    border-radius: 7px; 
+    padding: 10px;
+}

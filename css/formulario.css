@@ -1,0 +1,35 @@
+ body{
+    background-color: rgba(88, 144, 207, 0.432);
+ }
+ 
+ h1{ 
+    color: rgb(2, 0, 97);
+    font-style: italic;
+    text-align: center;
+}
+
+p{
+    color: rgb(2, 0, 97);
+    text-align: center;
+    font-size: 20px;
+}
+
+form{
+    text-align: center;
+}
+
+a{ 
+    color: rgb(2, 0, 97);
+    border: 5px double rgb(111, 162, 230);
+    border-radius: 5px; 
+    padding: 5px;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: azure;
+    border: 7px double rgba(66, 64, 218, 0.582);
+    border-radius: 7px; 
+    padding: 10px;
+}
